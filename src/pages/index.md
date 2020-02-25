@@ -17,7 +17,7 @@ sidebar:
 sections:
 - type: intro
   template: intro
-  title: Mack’s by the Tracks
+  title: Mack's Paint And Body Shop
   subtitle: "Cras aliquam amet adipiscing nibh faucibus suscipit ut Parturient  \ncol
     accumsan est arcu donec sed Eleifend Integer."
   section_id: intro
